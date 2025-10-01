@@ -1,0 +1,21 @@
+{
+  "name": "My Awesome Web App",
+  "description": "A modern web application built with React and Node.js",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "repository": "https://github.com/yourusername/awesome-webapp",
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Express"
+  ],
+  "features": [
+    "User authentication",
+    "Real-time chat",
+    "File upload",
+    "Responsive design"
+  ],
+  "demo": "https://awesome-webapp.vercel.app",
+  "license": "MIT"
+}
